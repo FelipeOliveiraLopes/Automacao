@@ -1,2 +1,2 @@
 # Automacao
- Automação de Tarefas
+ Automação de envio de e-mails com Python com módulo smtblip.
